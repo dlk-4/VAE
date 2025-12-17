@@ -8,5 +8,3 @@ GRA41522 : Object Oriented Programming with Python
     * help(MODULE_NAME)
     * python -c "import MODULE_NAME; help(MODULE_NAME)"
     * pydoc MODULE_NAME
-
-4. When it comes to the doc string for this project, I followed the “CashRegister” class doc string format (Lecture, Oct 30).
